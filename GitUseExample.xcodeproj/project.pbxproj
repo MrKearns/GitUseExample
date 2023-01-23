@@ -13,6 +13,7 @@
 		81310302297EDFE200EDBEA0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81310300297EDFE200EDBEA0 /* Main.storyboard */; };
 		81310304297EDFE300EDBEA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81310303297EDFE300EDBEA0 /* Assets.xcassets */; };
 		81310307297EDFE300EDBEA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81310305297EDFE300EDBEA0 /* LaunchScreen.storyboard */; };
+		818B5875297EE55500853BA6 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818B5874297EE55500853BA6 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		81310303297EDFE300EDBEA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81310306297EDFE300EDBEA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81310308297EDFE300EDBEA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		818B5874297EE55500853BA6 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				813102FA297EDFE200EDBEA0 /* AppDelegate.swift */,
 				813102FC297EDFE200EDBEA0 /* SceneDelegate.swift */,
+				818B5874297EE55500853BA6 /* MapForItinerary.swift */,
 				813102FE297EDFE200EDBEA0 /* ViewController.swift */,
 				81310300297EDFE200EDBEA0 /* Main.storyboard */,
 				81310303297EDFE300EDBEA0 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				818B5875297EE55500853BA6 /* MapForItinerary.swift in Sources */,
 				813102FF297EDFE200EDBEA0 /* ViewController.swift in Sources */,
 				813102FB297EDFE200EDBEA0 /* AppDelegate.swift in Sources */,
 				813102FD297EDFE200EDBEA0 /* SceneDelegate.swift in Sources */,

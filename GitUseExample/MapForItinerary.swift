@@ -1,0 +1,12 @@
+//
+//  MapForItinerary.swift
+//  GitUseExample
+//
+//  Created by Jonathan Kearns on 1/23/23.
+//
+
+import UIKit
+
+class MapForItinerary: NSObject {
+
+}
